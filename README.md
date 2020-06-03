@@ -1,5 +1,7 @@
 # www-cloud.github.io
 
+[https://www-cloud.github.io](https://www-cloud.github.io)
+
 [https://webcodehelp.github.io](https://webcodehelp.github.io)
 
 [https://francispeak.github.io](https://francispeak.github.io)
