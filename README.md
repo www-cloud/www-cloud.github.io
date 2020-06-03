@@ -2,3 +2,6 @@
 www-cloud.github.io
 
 [Webcodehelp](https://webcodehelp.github.io)
+[jillholmes.github.io]
+[www-Kyle.github.io]
+
