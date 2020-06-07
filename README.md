@@ -6,18 +6,15 @@
 
 [https://jillholmes.com](https://jillholmes.com)
 
-[https://webcodehelp.github.io](https://webcodehelp.github.io)
-
-[https://francispeak.github.io](https://francispeak.github.io)
-
 [https://www-Kyle.github.io](https://www-Kyle.github.io)
 
 [https://webcodehelp.com](https://webcodehelp.com)
 
+[https://webcodehelp.github.io](https://webcodehelp.github.io)
+
 [https://francispeak.com](https://francispeak.com)
 
-[https://askmetomow.github.io](https://askmetomow.github.io)
-
+[https://francispeak.github.io](https://francispeak.github.io)
 
 These are moved to Domain Names
 
