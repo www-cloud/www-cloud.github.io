@@ -16,6 +16,8 @@
 
 [https://francispeak.github.io](https://francispeak.github.io)
 
+[https://stan-holmes.github.io](https://stan-holmes.github.io)
+
 These are moved to Domain Names
 
 [https://askmetomow.github.io](https://askmetomow.github.io)
