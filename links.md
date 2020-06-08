@@ -1,6 +1,6 @@
 ---
 layout: default
-title: links
+title: Links
 ---
 # www-cloud.github.io
 
