@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: links
+---
 # www-cloud.github.io
 
 [https://www-cloud.github.io](https://www-cloud.github.io)
