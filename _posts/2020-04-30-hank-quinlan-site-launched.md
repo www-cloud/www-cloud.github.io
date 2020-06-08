@@ -1,5 +1,5 @@
 ---
-layout: default2 # post
+layout: default # post
 title: "Hank Quinlan, Horrible Cop, Launches Site"
 date: 2020-04-30
 ---
