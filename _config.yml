@@ -1,4 +1,14 @@
+title: WebCodeHelp
+description: >- # this means to ignore newlines 
+  For a better internet.
 name: www-cloud
 markdown: kramdown
 permalink: /:title
+twitter_username: webcodehelp
+github_username:  webcodehelp
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  
