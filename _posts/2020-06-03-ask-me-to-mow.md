@@ -1,4 +1,4 @@
-# Ask Me to Mow
+## Ask Me to Mow
 
 Pricing for 2020 is being quoted in the Layton, Kaysville and Davis County Area depending lawn size  and location.
 Typical pricing is $25 a weekly mow, when you provide the gas and lawn mowing equipment.
