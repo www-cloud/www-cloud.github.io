@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>www-cloud</title>
+    <link href="https://www-cloud.github.io/feed.xml" rel="self" />
+    <link href="https://www-cloud.github.io" />
+    <updated>2021-01-23T23:24:34-07:00</updated>
+    <author>
+        <name>Stan Holmes</name>
+    </author>
+    <id>https://www-cloud.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Stan Holmes</name>
+        </author>
+        <link href="https://www-cloud.github.io/test.html"/>
+        <id>https://www-cloud.github.io/test.html</id>
+
+        <updated>2021-01-23T23:24:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                    ok now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ok now</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /blogarchives/
-Disallow: /znotes/
+Disallow:
+Sitemap: https://www-cloud.github.io/sitemap.xml
